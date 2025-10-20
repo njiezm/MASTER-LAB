@@ -1,0 +1,6 @@
+id,title,content,type,createdAt,updatedAt
+"exemple-1","Introduction à la Programmation","https://example.com/programming-intro.pdf","pdf","2024-01-15T10:00:00.000Z","2024-01-15T10:00:00.000Z"
+"exemple-2","Notes sur les Algorithmes","Les algorithmes sont des séquences d'instructions pour résoudre des problèmes. Ils sont fondamentaux en informatique.\n\nPoints clés:\n- Complexité temporelle\n- Complexité spatiale\n- Notation Big O","note","2024-01-16T14:30:00.000Z","2024-01-16T14:30:00.000Z"
+"exemple-3","Tutoriel JavaScript","https://www.youtube.com/watch?v=example","video","2024-01-17T09:15:00.000Z","2024-01-17T09:15:00.000Z"
+"exemple-4","Documentation MDN","https://developer.mozilla.org/fr/docs/Web/JavaScript","link","2024-01-18T16:45:00.000Z","2024-01-18T16:45:00.000Z"
+"exemple-5","Diagramme d'Architecture","https://example.com/architecture-diagram.png","image","2024-01-19T11:20:00.000Z","2024-01-19T11:20:00.000Z"

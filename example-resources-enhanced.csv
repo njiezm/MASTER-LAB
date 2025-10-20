@@ -1,0 +1,8 @@
+id,title,content,type,fileName,fileSize,createdAt,updatedAt
+"exemple-1","Introduction à la Programmation","https://example.com/programming-intro.pdf","pdf","programming-intro.pdf",2048000,"2024-01-15T10:00:00.000Z","2024-01-15T10:00:00.000Z"
+"exemple-2","Notes sur les Algorithmes","Les algorithmes sont des séquences d'instructions pour résoudre des problèmes. Ils sont fondamentaux en informatique.\n\nPoints clés:\n- Complexité temporelle\n- Complexité spatiale\n- Notation Big O\n\nExemples:\n1. Recherche binaire: O(log n)\n2. Tri rapide: O(n log n)\n3. Tri par bulle: O(n²)","note","",0,"2024-01-16T14:30:00.000Z","2024-01-16T14:30:00.000Z"
+"exemple-3","Tutoriel JavaScript","https://www.youtube.com/watch?v=example","video","",0,"2024-01-17T09:15:00.000Z","2024-01-17T09:15:00.000Z"
+"exemple-4","Documentation MDN","https://developer.mozilla.org/fr/docs/Web/JavaScript","link","",0,"2024-01-18T16:45:00.000Z","2024-01-18T16:45:00.000Z"
+"exemple-5","Diagramme d'Architecture","https://example.com/architecture-diagram.png","image","architecture-diagram.png",512000,"2024-01-19T11:20:00.000Z","2024-01-19T11:20:00.000Z"
+"exemple-6","Fichier de Projet","/uploads/1705600000_project.zip","file","project.zip",1048576,"2024-01-20T13:00:00.000Z","2024-01-20T13:00:00.000Z"
+"exemple-7","Note Vocale - Révision","/uploads/1705603600_voice-note.webm","audio","voice-note.webm",256000,"2024-01-20T14:00:00.000Z","2024-01-20T14:00:00.000Z"
